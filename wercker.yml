@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
-        theme: cocoa
+        theme: hello-friend
         flags: --buildDrafts=true
 
 deploy:

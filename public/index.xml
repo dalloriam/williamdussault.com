@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Dussault</title>
+    <link>https://williamdussault.com/</link>
+    <description>Recent content on William Dussault</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Sep 2017 19:50:21 -0400</lastBuildDate>
+    
+	<atom:link href="https://williamdussault.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engel</title>
+      <link>https://williamdussault.com/projects/engel/</link>
+      <pubDate>Mon, 25 Sep 2017 19:50:21 -0400</pubDate>
+      
+      <guid>https://williamdussault.com/projects/engel/</guid>
+      <description>Engel is an opinionated framework that allows you to painlessly build cross-platform web interfaces for your python projects.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://williamdussault.com/about/</link>
+      <pubDate>Mon, 25 Sep 2017 19:23:03 -0400</pubDate>
+      
+      <guid>https://williamdussault.com/about/</guid>
+      <description>My name is William, and I am a versatile full-stack developer.
+I specialize in building data-centric Python applications (ETL Systems, web crawlers), but I also have worked on multiple Golang and Node.js projects.
+I also have some experience in machine learning, natural language processing, and computer vision, as well as in designing and implementing complex distributed intelligent systems, such as a cloud-based facial recognition application or a flexible recommender system.</description>
+    </item>
+    
+  </channel>
+</rss>

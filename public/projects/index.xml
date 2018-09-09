@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on William Dussault</title>
+    <link>https://williamdussault.com/projects/</link>
+    <description>Recent content in Projects on William Dussault</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Sep 2017 19:50:21 -0400</lastBuildDate>
+    
+	<atom:link href="https://williamdussault.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engel</title>
+      <link>https://williamdussault.com/projects/engel/</link>
+      <pubDate>Mon, 25 Sep 2017 19:50:21 -0400</pubDate>
+      
+      <guid>https://williamdussault.com/projects/engel/</guid>
+      <description>Engel is an opinionated framework that allows you to painlessly build cross-platform web interfaces for your python projects.</description>
+    </item>
+    
+  </channel>
+</rss>
