@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
-        theme: hello-friend
+        theme: "hello-friend"
         flags: --buildDrafts=true
 
 deploy:
