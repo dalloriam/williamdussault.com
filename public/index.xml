@@ -6,18 +6,35 @@
     <description>Recent content on William Dussault</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Sep 2017 19:50:21 -0400</lastBuildDate>
+    <copyright> </copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 14:50:44 -0400</lastBuildDate>
     
 	<atom:link href="https://williamdussault.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Engel</title>
-      <link>https://williamdussault.com/projects/engel/</link>
-      <pubDate>Mon, 25 Sep 2017 19:50:21 -0400</pubDate>
+      <title>Projects</title>
+      <link>https://williamdussault.com/projects/</link>
+      <pubDate>Sun, 09 Sep 2018 14:50:44 -0400</pubDate>
       
-      <guid>https://williamdussault.com/projects/engel/</guid>
-      <description>Engel is an opinionated framework that allows you to painlessly build cross-platform web interfaces for your python projects.</description>
+      <guid>https://williamdussault.com/projects/</guid>
+      <description>&amp;gt; Synthia Dependency-free software synthesizer toolikit for developers. Written in Go.
+Source
+&amp;gt; OpenTIS-100 Emulator for the excellent TIS-100 microprocessor. Written in Go.
+Source
+&amp;gt; Engel Experimental pure-python UI kit.
+Source Documentation</description>
+    </item>
+    
+    <item>
+      <title>Hi There!</title>
+      <link>https://williamdussault.com/post/hello/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamdussault.com/post/hello/</guid>
+      <description>My name is William, and I am a versatile full-stack developer.
+I specialize in building data-centric Python applications (ETL Systems, web crawlers), but I also have worked on multiple Golang and Node.js projects.
+I also have a strong interest in machine learning, natural language processing, and computer vision, and will most likely publish some experiments related to these in the future.</description>
     </item>
     
     <item>
@@ -28,7 +45,7 @@
       <guid>https://williamdussault.com/about/</guid>
       <description>My name is William, and I am a versatile full-stack developer.
 I specialize in building data-centric Python applications (ETL Systems, web crawlers), but I also have worked on multiple Golang and Node.js projects.
-I also have some experience in machine learning, natural language processing, and computer vision, as well as in designing and implementing complex distributed intelligent systems, such as a cloud-based facial recognition application or a flexible recommender system.</description>
+I also have a strong interest in machine learning, natural language processing, and computer vision, and will most likely publish some experiments related to these in the future.</description>
     </item>
     
   </channel>

@@ -3,7 +3,7 @@ title = "Hi There!"
 date = "2018-09-09"
 author = "William"
 cover = "bg.jpg"
-description = "I can resist anything, except temptation."
+description = ""
 +++
 
 My name is William, and I am a versatile full-stack developer.
