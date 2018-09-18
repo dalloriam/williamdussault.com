@@ -26,3 +26,7 @@ logoText = "william dussault"
     identifier = "projects"
     name = "Projects"
     url = "/projects"
+  [[menu.main]]
+    identifier = "wiki"
+    name = "Wiki"
+    url = "https://www.notion.so/dalloriam/Knowledge-Base-899cea17b51b46a5921a1d176235cc78"
