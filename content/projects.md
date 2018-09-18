@@ -7,7 +7,7 @@ author: "William"
 
 
 ## > Synthia
-Dependency-free software synthesizer toolikit for developers. Written in Go.
+Dependency-free software synthesizer toolikit built for developers. Written in Go.
 
 [Source](https://github.com/dalloriam/synthia)
 
