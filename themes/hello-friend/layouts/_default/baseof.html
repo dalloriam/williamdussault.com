@@ -4,7 +4,6 @@
   {{ block "title" . }}
     <title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}</title>
   {{ end }}
-  {{ template "_internal/google_analytics.html" . }}
   {{ partial "head.html" . }}
 </head>
 <body class="dark-theme">
