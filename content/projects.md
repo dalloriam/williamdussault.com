@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Software Projects"
 date: 2018-09-09T14:50:44-04:00
 draft: false
 author: "William"

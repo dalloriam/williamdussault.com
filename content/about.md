@@ -5,7 +5,7 @@ title = "About Me"
 author = "William"
 +++
 
-My name is William, and I am a versatile full-stack developer.
+My name is William, and I am a versatile full-stack developer and (sometimes) music producer.
 
 I specialize in building data-centric **Python** applications (ETL Systems, web crawlers), but I also have worked on multiple **Golang** and **Node.js** projects.
 

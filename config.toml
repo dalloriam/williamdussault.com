@@ -24,8 +24,12 @@ logoText = "william dussault"
     url = "/about"
   [[menu.main]]
     identifier = "projects"
-    name = "Projects"
+    name = "Software"
     url = "/projects"
+  [[menu.main]]
+    identifier = "music"
+    name = "Music"
+    url = "/music"
   [[menu.main]]
     identifier = "wiki"
     name = "Wiki"
