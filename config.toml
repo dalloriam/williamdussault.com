@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://williamdussault.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "William Dussault"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
