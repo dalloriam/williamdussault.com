@@ -7,10 +7,6 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
-
-      # install git
-      - run: sudo apt update && sudo apt install -y git
-
       # checkout the repository
       - checkout
 
