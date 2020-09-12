@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: apk update && apk add git
+      - run: sudo apt update && sudo apt install -y git
 
       # checkout the repository
       - checkout
@@ -17,8 +17,8 @@ jobs:
       - run:
           name: install AWS CLI (first install pip, the Python package manager)
           command: |
-            apk add --update python python-dev py-pip build-base
-            pip install awscli
+            sudo apt install -y python3 python3-pip
+            pip3 install awscli
 
       # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
