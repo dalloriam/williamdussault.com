@@ -1,13 +1,15 @@
 +++
-date = "2017-09-25T19:23:03-04:00"
-draft = false
-title = "About Me"
-author = "William"
+title = "About"
+description = "Hugo, the world’s fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-us","about-hugo","contact"]
+author = "William Dussault"
 +++
 
-My name is William, and I am a versatile full-stack developer and (sometimes) music producer.
+My name is William, and I am a software developer and (sometimes) music producer based in Quebec City.
 
-I specialize in building data-centric **Python** applications (ETL Systems, web crawlers), but I also have worked on multiple **Golang** and **Node.js** projects.
+I specialize in building performance-sensitive applications, mostly in C++ and in Rust, although I also dabble in Python and in Go.
 
-I also have a strong interest in **machine learning**, **natural language processing**, and **computer vision**, and will most likely publish some experiments related to these in the future.
+During the day, I work at [Coveo](https://coveo.com), building state-of-the-art insight & search technologies.
+
 

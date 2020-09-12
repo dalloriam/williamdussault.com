@@ -1,32 +1,68 @@
-baseurl             = "https://williamdussault.com"
-builddrafts         = false
-canonifyurls        = true
-contentdir          = "content"
-languageCode        = "en-US"
-layoutdir           = "layouts"
-publishdir          = "public"
-theme               = "hello-friend"
-author              = "William Dussault"
-title               = "William Dussault"
-pygmentsuseclasses  = true
-pluralizelisttitles = false
-googleAnalytics     = "UA-83434360-1"
-paginate = 5
-copyright = " "
+baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Jane Doe"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
 
-[params.logo]
-logoText = "william dussault"
+# Google Analytics
+googleAnalytics = "UA-83434360-1"
+
+[params]
+title = "Hi There!"
+author = "William Dussault"
+description = "I'm William."
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+# Google Site Verification
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+## Math settings
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/william-dussault-0a451093/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/dalloriam"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:william.dussault@hey.com"
+
+## Menu items
 
 [menu]
+
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
   [[menu.main]]
-    identifier = "projects"
-    name = "Software"
-    url = "/projects"
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
   [[menu.main]]
-    identifier = "wiki"
-    name = "Wiki"
-    url = "https://www.notion.so/dalloriam/Knowledge-Base-899cea17b51b46a5921a1d176235cc78"
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
