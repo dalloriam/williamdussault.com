@@ -1,7 +1,7 @@
 ---
 title: "Re-Inventing the Wheel for Fun and Profit"
 date: 2020-09-12T18:45:17-04:00
-description: "This is a description"
+description: "First part of the RTW series."
 draft: false
 author: "William Dussault"
 ---
