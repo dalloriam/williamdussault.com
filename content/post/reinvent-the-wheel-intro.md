@@ -19,6 +19,6 @@ The main problem I see with these two kinds of publications is that they don't m
 
 To address that problem, I propose what could become a new series of articles: Re-Inventing the Wheel for Fun & Profit. Articles in this series will cover the design and implementation of complex systems (think databases, search engines, etc.) while assuming nothing except familiarity with the selected programming language. They will start with a naive implementation of the target system, and they will progressively teach the reader how to overcome the limitations of this simple implementation up to the point where the application is fit for production use.
 
-I already have a few subjects in mind for this new series, starting with "How to write an efficient keyword search engine", but I'd like to hear what you would like to see. Feel free to hit me up with ideas by [email](mailto:william.dussault@hey.com)  or on twitter at [@WilliamDussault](https://twitter.com/@WilliamDussault).
+I already have a few subjects in mind for this new series, starting with "How to write an efficient keyword search engine", but I'd like to hear what you would like to see. Feel free to hit me up with ideas by [email](mailto:william@dussault.dev)  or on twitter at [@WilliamDussault](https://twitter.com/@WilliamDussault).
 
 That's it for now - until next time!

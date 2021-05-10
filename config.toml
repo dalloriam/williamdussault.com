@@ -43,7 +43,7 @@ url = "https://github.com/dalloriam"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:william.dussault@hey.com"
+url = "mailto:william@dussault.dev"
 
 ## Menu items
 
